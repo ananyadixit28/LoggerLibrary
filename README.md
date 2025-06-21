@@ -11,7 +11,6 @@ This library allows applications to log messages to various sinks such as consol
 - Enriches log messages with timestamp, namespace, trackingId, and hostname
 - Supports console and file sinks out of the box
 - Automatic log rotation and compression for file-based logs
-- Thread-safe logging with support for synchronous and asynchronous modes
 - Extensible sink architecture – implement your own sinks (e.g., DB, Kafka, etc.)
 
 ## Quick Start
